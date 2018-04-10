@@ -1,14 +1,4 @@
-# Learn Microservices with Spring Boot - v10
-
-This project contains the version 10 of the application that is developed under the scope of the book *Learn Microservices with Spring Boot*. You can buy the book on [Amazon](http://amzn.to/2FSB2ME) or [Apress](http://www.apress.com/gp/book/9781484231647).
-
-The book shows you how to evolve a simple Spring Boot application to become a full Microservices Architecture, using Spring Cloud Eureka, Ribbon, Zuul and Hystrix to implement Service Discovery, Load Balancing, the API Gateway pattern and a Circuit Breaker. Besides, you'll learn how to implement End-to-End tests with Cucumber, an Event-Driven system and the best practices when building Microservices.
-
-## Idea
-
-These projects, included in [Microservices-Practical repositories](https://github.com/microservices-practical), illustrate how to start an application from scratch and then evolve it to become a full microservices environment.
-
-This version has exactly the same functionality as the v9 version, but the projects have been upgraded to Spring Boot 2.0, thus applying some minor changes in code to make them work.
+# Microservices with Spring Boot
 
 ## Contents
 
@@ -31,7 +21,5 @@ These are the instructions:
 
 ![Application - version 8](resources/logical_view_v8.png)
 
-## Do you want to know more?
 
-If you want more details about the different application parts and how to get there from scratch, you can buy the book on [Apress](http://www.apress.com/gp/book/9781484231647) on [Amazon](http://amzn.to/2FSB2ME).
 
